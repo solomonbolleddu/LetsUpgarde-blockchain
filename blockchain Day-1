@@ -1,0 +1,27 @@
+Blockchain Essentials Day-1
+Name: Solomon Ashish Bolleddu
+Assignment-1
+
+Q.1) What is your understanding of Blockchain?
+Ans. Blockchain is undoubtedly a brilliant invention, blockchain is a system that maintains and keeps the records(information) in it. blockchain is essentially a digital ledger of records or transactions that makes a duplicate copy and distributed across the entire network of computer systems on the blockchain.  
+
+Q.2) What is the core problem blockchain tried to solve?
+Ans. In 2008, layman's brother inc went into a major bankruptcy that's when a pseudonymous person or an organization published a paper that led to the invention of Blockchain. blockchain is a system in which it eradicates the middleman or so and makes an end to end transaction of records or so. furthermore, there is no way to corrupt the data once stored in the blockchain as it maintains a ten seconds window period then creates a new block and it goes on. so basically blockchain is trying to decentralize the organization and distribute the data all over the world to maintain a  common ledger.
+
+Q.3) what are the few features that blockchain will give you?
+Ans. features of blockchain:
+    1. The data is immutable and cannot be changed easily.
+    2. Blockchain is decentralized as well as an open ledger.
+    3. Its security is too good.
+    4. Blockchain provides a peer to peer network so it's tamper-proof.
+    5. The distributed data can be Verifiable.
+    
+Q.4) What all things a block contains?
+Ans. A block has mainly four things:
+    1. A Block number.
+    2. Transaction records.
+    3. A Previous block signature or hash.
+    4. A Mining key (Nonce).
+
+Q.5) How is the Verifiability of Blockchain is been attained?
+Ans. In an organization, there are 100s of people involved in a group who will check the hash provided by each and everyone that the hash is true for all or not. If a data is stored and updated into the say 200 blocks and the hash generated is same in all the blocks but if one block comes up with the different hash than we can comparatively say that this block is having a wrong data so we can change the data and that’s how verifiability obtained.

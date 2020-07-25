@@ -1,0 +1,22 @@
+pragma solidity ^0.4.17;
+
+contract mercedes{
+    string public owner;
+    string public purchase_method;
+    string public membership;
+    
+    function car(string newOwner,string newPurchase_method,string newMembership)public{
+        owner=newOwner;
+        purchase_method=newPurchase_method;
+        membership=newMembership;
+    }
+    function setDetail(string newOwner,string newPurchase_method,string newMembership)public{
+        owner=newOwner;
+        purchase_method=newPurchase_method;
+        membership=newMembership;
+    }
+    function getDetail()public view returns(string,string,string){
+        return(owner,purchase_method,membership);
+    }
+    
+}
